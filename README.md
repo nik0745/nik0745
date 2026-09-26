@@ -59,19 +59,58 @@ I enjoy turning complex ideas into practical software — from AI agents and rec
 
 ## 🔥 Featured Projects
 
-### 🤖 ClipMind AI
+### 🎬 ClipMind AI
 
-An AI-powered video intelligence platform designed to transform long-form video content into useful, searchable and summarized knowledge.
+**ClipMind AI** is an AI-powered video intelligence platform designed to transform long-form video content into **searchable, summarized and actionable knowledge**.
 
-**Focus:** AI-powered video processing • Generative AI • Backend APIs • Content intelligence • Automation
+The platform uses Generative AI to process video content and help users quickly understand, explore and interact with information contained in videos.
+
+The system is designed around:
+
+- 🎥 Video upload and intelligent video processing
+- 🤖 AI-powered video summarization
+- 🧠 Generative AI and LLM-based content understanding
+- 📝 Automatic generation of concise summaries and key insights
+- 🔎 Intelligent content search and information retrieval
+- 💬 AI-powered interaction with processed video content
+- 👥 Role-based workflows for **Administrators, Learners, Content Creators and Educators**
+- ⚡ Backend APIs for handling video processing and AI workflows
+- 🔄 Asynchronous processing for long-running AI/video tasks
+- 📊 Content and user management workflows
+- 🏗️ Scalable architecture designed for AI-powered content processing
+
+**Focus:** Python • Django • REST APIs • Generative AI • LLMs • Video Processing • AI Workflows • PostgreSQL • Redis • Celery • Docker
+
+> 🚀 **AI-powered video intelligence platform for turning long-form video into searchable, summarized and interactive knowledge.**
 
 ---
 
 ### 📈 Samco Trader
 
-A trading and market-data focused application involving real-time financial data processing and backend engineering.
+**Samco Trader** is an **automated trading application** built with Python and PyQt5, integrated with the **Samco Brokerage API** for automated execution of Equity (EQ) and Futures & Options (F&O) trades.
 
-**Focus:** Python • Real-time data processing • Market analytics • High-throughput systems • APIs • Database engineering
+The application connects to **live market data APIs and socket-based data streams** to monitor real-time market conditions and execute trades automatically according to user-defined trading configurations and schedules.
+
+The system is designed around:
+
+- 🏦 Integration with the **Samco Brokerage API**
+- 📡 Real-time market data through APIs and socket-based communication
+- 📈 Automated execution of **Equity (EQ) and Futures & Options (F&O)** trades
+- ⏱️ User-configurable scheduling for automated trade execution
+- 📊 Continuous monitoring of live market data
+- 🧮 Automatic calculation of trading and order-related parameters
+- 🛡️ Automated **Stop Loss and other risk-management parameters**
+- 🎯 Configurable strategy-based trade execution
+- 🔄 Real-time order and execution status handling
+- ⚡ Event-driven processing using live market data
+- 🖥️ Desktop trading interface built with **PyQt5**
+- 📝 Trade execution and activity monitoring
+- 🔐 Brokerage authentication and API integration
+- 🗓️ User-defined execution schedules for different trading strategies
+
+**Focus:** Python • PyQt5 • Samco Brokerage API • REST APIs • WebSockets/Sockets • Real-Time Market Data • Automated Trading • Algorithmic Trading • Order Execution • F&O • Equity • Scheduling
+
+> 🚀 **A Python-based automated trading application that connects to live Samco market data and executes scheduled EQ and F&O trades with configurable strategy and risk-management parameters.**
 
 ---
 
