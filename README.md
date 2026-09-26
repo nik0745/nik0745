@@ -169,27 +169,10 @@ Over the course of my experience, I've worked on systems handling **high-concurr
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nik0745&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik0745&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nik0745&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nik0745&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -212,7 +195,7 @@ Over the course of my experience, I've worked on systems handling **high-concurr
   <a href="https://linkedin.com/in/nikul-chaudhary">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nikulvchaudharee0745@gmail.com">
+  <a href="nikulvchaudharee0745@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://nikulchaudhary.vercel.app/">
